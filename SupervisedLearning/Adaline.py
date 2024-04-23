@@ -39,3 +39,4 @@ for j in range(epochs):
 
         print(f'({x1:2},{x2:2} {t[i]:2}) , {yin:2} , ({w1:2},{w2:2},{b:2})')
     print("mse =",mse/4,"\n")
+
